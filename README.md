@@ -1,12 +1,16 @@
 # 🎬 Netflix Analysis Dashboard
+## 🎥 About the Project
 
-Welcome to the **Netflix Analysis Dashboard**!  
-This project provides a **comprehensive analysis of Netflix movie data** using an **interactive Tableau dashboard**.
+The **Netflix Analysis Dashboard** is an interactive Tableau project that provides detailed insights into Netflix's **movie catalog** up to 2025.  
+It covers key aspects such as **global content distribution**, **financial trends**, **top directors**, and **genre analysis**.
 
-The dashboard reveals insights into **global content distribution**, **financial performance trends**, **top directors**, and **genre popularity**, based on data compiled up to **July 13, 2025**.
+The dashboard allows users to explore Netflix's expansion strategy, content diversity, and budget-performance metrics.  
+With filterable visualizations, users can dive into **release years**, **countries**, **ratings**, and **durations** to uncover data-driven stories.
+
+This project is designed for data enthusiasts, analysts, and anyone interested in the **streaming industry landscape**.  
+The dataset includes details on **titles, directors, cast, revenue, budget, genres, and more**, making it ideal for both visual exploration and future predictive analysis.
 
 ---
-
 ## 📊 **Overview**
 
 This repository includes:
